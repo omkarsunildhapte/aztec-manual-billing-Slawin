@@ -1,0 +1,100 @@
+label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+input {
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.form-label {
+    margin: 0px;
+    font-weight: 700;
+    padding: 0px;
+}
+
+.main-section {
+    width: 100px;
+    border: 2px solid;
+    padding: 2px 46px;
+    border-radius: 17px;
+    background: #73c8f3;
+}
+
+.server-herder {
+    padding: 5px 3px;
+    background: #fff;
+    font-size: 14px;
+}
+
+.form {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+}
+
+.main-select {
+    padding: 0px 68px;
+    background: #fff;
+    border: 5px solid #00e6ff;
+    margin: 0px 7px;
+}
+
+.main-input {
+    padding: 0px 50px;
+    background: #fff;
+    border: 5px solid #00e6ff;
+    margin: 0px 7px;
+}
+
+.radio-group {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    background: darkgray;
+    padding: 10px;
+}
+
+.radio-group li {
+    display: flex;
+}
+
+.radio-group li label {
+    color: blue;
+    font-weight: 700;
+}
+
+.legal-button {
+    text-wrap: nowrap;
+    background: rgb(64, 61, 61);
+    border-radius: 5px;
+    padding: 3px 12px;
+    margin-right: 8px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.number-button {
+    text-wrap: nowrap;
+    background: #7166fa;
+    border-radius: 5px;
+    padding: 3px 12px;
+    margin-right: 8px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.main-header-services {
+    text-wrap: nowrap;
+    color: #281f94;
+    padding: 10px 70px 10px 10px;
+}
